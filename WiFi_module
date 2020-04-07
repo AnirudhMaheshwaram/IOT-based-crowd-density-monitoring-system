@@ -1,0 +1,13 @@
+Login as debian on BeagleBone Black
+Type connman to enter connman command line interface
+Type the following commands step wise in connman CLI
+step 1: enable wifi
+step 2: scan wifi
+step 3: services
+step 4: connect Network_ID
+step 5: Passphrase for Network_ID
+step 6: quit
+Once the command quit is entered user will be directed back to debian terminal
+Wait for 30 seconds and then test your BeagleBone WiFi
+To test whether your BeagleBone is connected to network or not just ping any server 
+We used the command ping 8.8.8.8 to test our whether connection is established or there is any loss in packets transmitted  
