@@ -1,0 +1,16 @@
+Type the following commands while logged in as debian
+command : pip install aws
+command : pip install boto3
+Create a free tier account with AWS
+Now go to AWS console search for IAM service and create an IAM user and give it programmatic access and click Next
+In the next page under Set Permissions go to Attach policies and attach the policy Administrator access
+Continue to next pages and user will be created
+Now take note of the Access key ID and Secret access key as they will be required for future use
+Now go back to BeagleBone console and type the following commands
+command : aws configure
+It asks for the following
+AWS Access Key ID:
+AWS Secret Access Key:
+Default Region name:
+Default Output Format:
+Enter all those details and we are all set and can use Amazon Web services on our device
