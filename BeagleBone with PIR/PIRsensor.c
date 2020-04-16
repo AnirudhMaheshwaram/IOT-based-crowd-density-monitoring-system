@@ -1,3 +1,8 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<unistd.h>
+int current = 0;
+int total = 0;
 void *pir_func(void *arg)
 {
         int* pir = (int *)arg;                                     
