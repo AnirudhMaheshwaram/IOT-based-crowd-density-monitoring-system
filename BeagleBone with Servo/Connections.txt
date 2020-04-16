@@ -1,1 +1,11 @@
+Connections are made as follows
 
+For Servo at entry gate:
+Voltage goes to P9_4
+Data goes to P8_13
+Ground goes to P9_44
+
+For Servo at exit gate:
+Voltage goes to P9_3
+Data goes to P8_19
+Ground goes to P9_43
