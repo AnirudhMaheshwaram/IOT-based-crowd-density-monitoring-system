@@ -1,1 +1,8 @@
+Connections are made as follows:
 
+From BEAGLEBONE to ARDUINO
+P8_7 to digital 2
+P8_8 to digital 3
+P8_10 to digital 5
+P8_11 to digital 6
+P8_12 to digital 7
