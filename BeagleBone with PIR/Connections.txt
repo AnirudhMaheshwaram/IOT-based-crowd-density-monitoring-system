@@ -1,0 +1,11 @@
+Connections are made as follows
+
+For PIR at entry gate:
+Voltage goes to P9_6
+Data goes to P8_16
+Ground goes to P9_46
+
+For PIR at exit gate:
+Voltage goes to P9_5
+Data goes to P8_15
+Ground goes to P9_45

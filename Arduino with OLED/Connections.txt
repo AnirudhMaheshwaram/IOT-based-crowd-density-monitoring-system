@@ -1,0 +1,9 @@
+We are making connects using SPI and connections are as follows
+OLED to ARDUINO
+GND goes to ground
+Vin goes to 5V
+DATA to digital 9
+CLK to digital 10
+D/C to digital 11
+RST to digital 13
+CS to digital 12
